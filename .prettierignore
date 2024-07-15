@@ -1,0 +1,6 @@
+# Ignore artifacts:
+.next/
+.vscode/
+node_modules/
+# Ignore specific files:
+package-lock.json
