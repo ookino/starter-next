@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint --fix ",
-    "format": "bunx prettier --write",
+    "format": "bunx prettier --write 'src/**/*.{js,jsx,ts,tsx,css,html}'",
     "prepare": "husky"
   },
 
